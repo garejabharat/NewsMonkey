@@ -1,0 +1,267 @@
+
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": null,
+        "title": "World Baseball Classic final live updates: Trea Turner homers again for Team USA vs. Japan - USA TODAY",
+        "description": null,
+        "url": "https://www.usatoday.com/story/sports/mlb/2023/03/21/world-baseball-classic-final-live-updates-team-usa-vs-japan/11514645002/",
+        "urlToImage": null,
+        "publishedAt": "2023-03-22T00:00:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Brie Stimson",
+        "title": "Nick Lachey ordered to attend anger management classes, Alcoholics Anonymous after incident with photographer - Fox News",
+        "description": "After a heated incident with a paparazzo in Beverly Hills last year, Nick Lachey was ordered to attend anger management classes, the Los Angeles District Attorney confirmed.",
+        "url": "https://www.foxnews.com/entertainment/nick-lachey-ordered-attend-anger-management-classes-alcoholics-anonymous-incident-photographer",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/ba66ca19-nick-lachey.jpg",
+        "publishedAt": "2023-03-21T23:51:00Z",
+        "content": "Nick Lachey has been ordered to attend anger management classes and Alcoholics Anonymous meetings after an incident with a photographer last year. \r\nThe requirements stemmed from the 98 Degrees alum … [+2156 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Badger tunnels halt traffic on Dutch railways - BBC",
+        "description": "Trains in the north and south of the Netherlands are affected, with some services stopping for a week.",
+        "url": "https://www.bbc.com/news/world-europe-65034493",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18373/production/_129078199_gettyimages-468208367.jpg",
+        "publishedAt": "2023-03-21T23:36:42Z",
+        "content": "Badgers burrowing below railway tracks have wreaked havoc on train services in the Netherlands, causing cancellations and line closures.\r\nTrains in the north and south of the country have been affect… [+1618 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Meghan Holohan",
+        "title": "Man diagnosed with stage 4 colon cancer at 29 shares symptoms: 'It hit me pretty hard' - Yahoo News",
+        "description": "More young people are getting colon cancer. A man diagnosed at age 29 shares symptoms as part of this trend — pelvic pain, blood in stool, not being able to ...",
+        "url": "https://news.yahoo.com/man-diagnosed-stage-4-colon-231851391.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/NFB3Yuzbr0nAlugt_.pE8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNDEy/https://media.zenfs.com/en/nbc_today_217/79d58b78fb6c725b8af9e1fe8ffc1951",
+        "publishedAt": "2023-03-21T23:18:51Z",
+        "content": "When Brendan Menapace ate, he felt terrible and wanted to nap. He noticed blood in his stool and visited his doctor.\r\nHaving the support of his partner, family and friends made it easier for Brendan … [+7354 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Aaron Gregg",
+        "title": "Buyers pour into housing market as prices drop for first time since 2012 - The Washington Post",
+        "description": "Data from the National Association of Realtors confirms the first year-over-year decline in median housing prices since 2012.",
+        "url": "https://www.washingtonpost.com/business/2023/03/21/housing-prices/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VYTPMHOGPU74CLI4RXH3HVBLBE_size-normalized.jpg&w=1440",
+        "publishedAt": "2023-03-21T23:15:48Z",
+        "content": "Comment on this story\r\nMillions of people seized on lower mortgage rates and stagnant prices to buy homes last month, breathing new life into a U.S. residential housing market that has seen steady de… [+4278 chars]"
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": null,
+        "title": "At least 9 killed after powerful earthquake rocks Pakistan and Afghanistan - CBS News",
+        "description": "The U.S. geological survey recorded a 6.5 magnitude temblor in the far northeast of Afghanistan, near the Pakistani border.",
+        "url": "https://www.cbsnews.com/news/earthquake-pakistan-afghanistan-2023/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/03/21/40cc49cd-c020-40f5-927a-c9e22556dac0/thumbnail/1200x630/7845c4b47d1917d52729e0a5aa451a3b/pakistan-1248988258.jpg",
+        "publishedAt": "2023-03-21T22:36:00Z",
+        "content": "A magnitude-6.5 earthquake rattled much of Pakistan and Afghanistan on Tuesday, sending panicked residents fleeing from homes and offices and frightening people even in remote villages. At least nine… [+4082 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Simone McCarthy, Rob Picheta",
+        "title": "Putin and Xi play peacemakers on Ukraine and pledge to expand ties in show of unity in Moscow - CNN",
+        "description": "Xi Jinping and Vladimir Putin posed as peacebrokers during a chummy visit in Moscow on Tuesday, again touting a supposed plan to end Russia's raging war in Ukraine that has been panned by the United States as a one-sided attempt to hand the Kremlin leader cov…",
+        "url": "https://www.cnn.com/2023/03/21/europe/china-xi-russia-putin-visit-day-two-talks-intl-hnk/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230321143537-02-xi-jinping-moscow-032123.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-03-21T22:29:00Z",
+        "content": "Xi Jinping and Vladimir Putin posed as peacebrokers during a chummy visit in Moscow on Tuesday, again touting a supposed plan to end Russias raging war in Ukraine that has been panned by the United S… [+5381 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Eonline.com"
+        },
+        "author": "Alexandra Bellusci",
+        "title": "Kelly Ripa Recalls Past Marriage Challenges With “Insanely Jealous” Husband Mark Consuelos - E! NEWS",
+        "description": "Kelly Ripa got candid on how jealous husband Mark Consuelos acted at the beginning of their relationship: \"That was a hard pill to swallow.\"",
+        "url": "https://www.eonline.com/news/1368833/kelly-ripa-recalls-past-marriage-challenges-with-insanely-jealous-husband-mark-consuelos",
+        "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023030/rs_1200x1200-230130180655-1200-kelly-mark-GettyImages-1428216629.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+        "publishedAt": "2023-03-21T22:27:00Z",
+        "content": "\"I remember that,\" he confessed. \"Look, at age 25, I was pretty insane. But that jealousy thing definitely followed me for a while. I'm not jealous anymore.\"\r\nKelly quipped that she is \"so grateful t… [+675 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "Teddy Grant",
+        "title": "8 dolphins dead after washing ashore on New Jersey beach - ABC News",
+        "description": "The dolphins were sent to a state laboratory where a necropsy will be performed.",
+        "url": "https://abcnews.go.com/US/8-dolphins-dead-after-washing-ashore-new-jersey/story?id=98024202",
+        "urlToImage": "https://s.abcnews.com/images/US/dolphin-rescue-07-ht-jt-230321_1679433815350_hpMain_16x9_992.jpg",
+        "publishedAt": "2023-03-21T22:03:17Z",
+        "content": "A pod of eight dolphins died after being stranded on two beaches in New Jersey on Tuesday, according to an animal rescue and rehabilitation center.\r\nThe sea creatures washed up on 50th and 52nd Stree… [+917 chars]"
+      },
+      {
+        "source": {
+          "id": "the-wall-street-journal",
+          "name": "The Wall Street Journal"
+        },
+        "author": "Sarah E. Needleman",
+        "title": "GameStop Shares Surge After It Posts Surprise Profit - The Wall Street Journal",
+        "description": "The videogame retailer records its first quarterly profit in two years",
+        "url": "https://www.wsj.com/articles/gamestop-shares-surge-after-it-posts-surprise-profit-d498dcf7",
+        "urlToImage": "https://images.wsj.net/im-748342/social",
+        "publishedAt": "2023-03-21T21:44:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": null,
+        "title": "Willis Reed, legendary New York Knicks center and Hall of Famer, dies at age 80 - CBS News",
+        "description": "The Hall of Fame center led the New York Knicks to championships in 1970 and 1973.",
+        "url": "https://www.cbsnews.com/news/willis-reed-dies-age-80-new-york-knicks-center-hall-of-famer/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/03/21/7a6561bf-9f7e-40e2-9c46-9457672a2829/thumbnail/1200x630g2/49037d4f3fc7db3f5bd19f5676a5b28f/willis-reed-1126445730.jpg",
+        "publishedAt": "2023-03-21T21:34:00Z",
+        "content": "Willis Reed, who dramatically emerged from the locker room minutes before Game 7 of the 1970 NBA Finals to spark the New York Knicks to their first championship and create one of sports' most endurin… [+6759 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Ashley Strickland",
+        "title": "RNA compound and vitamin B3 found in samples from near-Earth asteroid - CNN",
+        "description": "Organic molecules, including uracil and niacin, have been detected in samples collected by Japan's Hayabusa2 mission from the near-Earth asteroid Ryugu. Uracil is a component of RNA while niacin is better known as vitamin B3, a key cofactor for metabolism.",
+        "url": "https://www.cnn.com/2023/03/21/world/ryugu-asteroid-organic-molecules-scn/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230321120109-02-ryugu-asteroid-samples.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-03-21T20:47:00Z",
+        "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nOrganic molecules have been detected in samples collec… [+4261 chars]"
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "Kerry Breen",
+        "title": "Grand jury indicts the 10 people charged in Irvo Otieno's death - CBS News",
+        "description": "Three hospital employees and seven sheriff's deputies have been indicted on charges of second-degree murder.",
+        "url": "https://www.cbsnews.com/news/irvo-otieno-death-10-people-indicted-henrico-county-sheriff-deputies-central-state-hospital-employees-virginia/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/03/21/d545f428-6220-4b0d-8f8a-0d7f5640a1f7/thumbnail/1200x630/ce38dbec76216dc2a9dfa68bb1841dee/irvo-otieno-1920x1080.jpg",
+        "publishedAt": "2023-03-21T20:45:00Z",
+        "content": "A grand jury has indicted the 10 people charged in the death of Irvo Otieno, a mentally ill man who suffocated to death earlier this month while in law enforcement custody in Virginia.\r\nSeven deputie… [+1803 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "FRANCE 24 English"
+        },
+        "author": "Cyrielle CABOT, Romain HOUEIX",
+        "title": "Protests, appeals, referendum: What’s next for France’s pension reform? - FRANCE 24 English",
+        "description": "After the French government this week survived two no-confidence votes sparked by the use of special executive power to push pension reforms through parliament, President Emmanuel Macron faces public outrage and constitutional appeals amid swirling rumours of…",
+        "url": "https://www.france24.com/en/france/20230321-protests-appeals-referendum-what-s-next-for-france-s-pension-reform",
+        "urlToImage": "https://s.france24.com/media/display/21287594-c75a-11ed-9f59-005056a90284/w:1280/p:16x9/000_33BQ3CC.jpg",
+        "publishedAt": "2023-03-21T20:43:57Z",
+        "content": "After the French government this week survived two no-confidence votes sparked by the use of special executive power to push pension reforms through parliament, President Emmanuel Macron faces public… [+8026 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Gabrielle Fonrouge",
+        "title": "Nike's holiday quarter plagued by bloated inventory, weak China sales - CNBC",
+        "description": "Investors have been watching to see if Nike's gross margins improve from its direct-to-consumer channels.",
+        "url": "https://www.cnbc.com/2023/03/21/nike-nke-q3-earnings-2023.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107151906-16685259512020-05-11t000000z_1807047357_rc2jmg974z9i_rtrmadp_0_health-coronavirus-usa-new-york.jpeg?v=1679430399&w=1920&h=1080",
+        "publishedAt": "2023-03-21T20:26:39Z",
+        "content": "Nike easily beat Wall Street's estimates for its holiday quarter earnings and revenue, although its bloated inventory continued to weigh on its margins and sales in China fell short of expectations.\r… [+5292 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Another storm hits Southern California with heavy rain, snow - KTLA 5",
+        "description": "Heavy rain fell across metropolitan Los Angeles Tuesday morning as a major storm hit Southern California on the first full day of spring, marking the first d...",
+        "url": "https://www.youtube.com/watch?v=FV_C93FlsF0",
+        "urlToImage": "https://i.ytimg.com/vi/FV_C93FlsF0/maxresdefault.jpg",
+        "publishedAt": "2023-03-21T20:23:49Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Post"
+        },
+        "author": "Isabel Keane",
+        "title": "Russian cruise missiles destroyed in Crimea blast, Ukraine says - New York Post ",
+        "description": "Ukrainian authorities stopped short of taking responsibility for the attack but said the strike should prompt Russia to leave the Black Sea peninsula.",
+        "url": "https://nypost.com/2023/03/21/russian-cruise-missiles-destroyed-in-crimea-blast-ukraine/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000008577451.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2023-03-21T19:52:00Z",
+        "content": "Russian “Kalibr” cruise missiles were destroyed in an explosion as they were being transported by train to Russia’s Black Sea fleet in annexed Crimea, Ukraine’s Defense Ministry said Monday evening. … [+2508 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "",
+        "title": "Prisco's 2023 NFL Mock Draft 1.0: QBs fly off board as four go in top 5; Bears add defense after trading down - CBS Sports",
+        "description": "Pete Prisco believes any of the top four QBs has a chance to be the No. 1 pick",
+        "url": "https://www.cbssports.com/nfl/draft/news/priscos-2023-nfl-mock-draft-1-0-qbs-fly-off-board-as-four-go-in-top-5-bears-add-defense-after-trading-down/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/03/21/4f074d44-1e31-43a5-9220-3f838523aa0b/thumbnail/1200x675/c70e3dd0c019603e935480b9d9c88c8a/young.jpg",
+        "publishedAt": "2023-03-21T19:30:00Z",
+        "content": "With apologies to my colleague, Ryan Wilson, who has done 14,033 mock drafts since September, it's time for me to enter into the madness that is Mock Draft Mania.\r\nThis my first. It won't be my last,… [+1654 chars]"
+      },
+      {
+        "source": {
+          "id": "the-hill",
+          "name": "The Hill"
+        },
+        "author": "Rachel Frazin",
+        "title": "Biden designates new national monuments in Nevada, Texas - The Hill",
+        "description": "President Biden on Tuesday designated two new national monuments in Nevada and Texas. Biden designated Nevada’s Avi Kwa Ame, also known as Spirit Mountain, and Texas’s Castner Range as monuments, protecting a total of nearly 514,000 acres of public lands from…",
+        "url": "https://thehill.com/policy/energy-environment/3910332-biden-designates-new-national-monuments-in-nevada-texas/",
+        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/03/bidenjoe_interior_032123.jpg?w=1280",
+        "publishedAt": "2023-03-21T19:04:00Z",
+        "content": "Skip to content\r\nPresident Biden on Tuesday designated two new national monuments in Nevada and Texas.\r\nBiden designated Nevada’s Avi Kwa Ame, also known as Spirit Mountain, and Texas’s Castner Range… [+3183 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Vox"
+        },
+        "author": "Nicole Narea",
+        "title": "LAUSD strike: Why Los Angeles staff, teachers are on strike - Vox.com",
+        "description": "Unions are protesting low wages and “unfair” working conditions during the three-day strike.",
+        "url": "https://www.vox.com/2023/3/21/23650526/lausd-strike-los-angeles-teacher-salary-wages",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/WUzHqYMLt09VI4oVV9mCs3SUML4=/0x0:4925x2579/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24526102/1475093929.jpg",
+        "publishedAt": "2023-03-21T19:00:00Z",
+        "content": "Los Angeles public school staff including bus drivers, custodians, and cafeteria workers have commenced a three-day strike over wages and labor practices they say are unfair. The citys public school … [+4683 chars]"
+      }
+    ]
+  }
