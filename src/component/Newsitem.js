@@ -1,20 +1,33 @@
-import React, { Component } from 'react'
+import React from 'react'
 
-export default class Newsitem extends Component {
-  render() {
-    let {title, description,imageUrl,newsUrl} = this.props 
+ const Newsitem =(props) => {
+ 
+
+    let {title, description,imageUrl,newsUrl,author,date,source} = props 
     return (
       <div className='container my-3'>
-        <div className="card" style={{width: "18rem"}}>
-        <img src={!imageUrl?  "https://s.yimg.com/ny/api/res/1.2/NFB3Yuzbr0nAlugt_.pE8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNDEy/https://media.zenfs.com/en/nbc_today_217/79d58b78fb6c725b8af9e1fe8ffc1951":imageUrl} className="card-img-top" alt="..." />
+         
+        <div className="card" >
+          <div style={{display: 'flex',
+                      justifyContent: 'flex-end',
+                      position: 'absolute',
+                      right: '0'}}>
+
+          <span className=" badge rounded-pill bg-danger" >
+            {source}
+            </span>
+          </div>
+        <img src={!imageUrl?"https://www.thestatesman.com/wp-content/uploads/2023/03/5cfe0d4de4e6df4a2a6b1c3f6906168d-1.jpg":imageUrl} className="card-img-top" alt="..." />
         <div className="card-body">
           <h5 className="card-title">{title}...</h5>
           <p className="card-text">{description}...</p>
-          <a href={newsUrl} target="_blank" rel="noreferrer" className="btn btn-sm btn-primary">Read More</a>
+          <p className="card-text"><small className="text-muted">By {!author?"Unknow":author} on {new Date(date).toGMTString() }</small></p>
+          <a href={newsUrl}  rel="noreferrer" target="_blank"  className="btn btn-sm btn-primary">Read More</a>
         </div>
       </div>
       </div>
       
     )
-  }
+  
 }
+export default Newsitem;
